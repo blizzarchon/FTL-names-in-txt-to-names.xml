@@ -1,5 +1,5 @@
 # FTL modding: names in text file to names.xml-type file
-For use with FTL: Faster Than Light.
+For use with FTL: Faster Than Light. This readme assumes you are familiar with what the names.xml file is all about.
 
 Reads a text file full of names, one name per line, and converts it to the names.xml-type file that houses FTL's names (just one nameList though).
 
